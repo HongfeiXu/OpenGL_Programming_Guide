@@ -1,0 +1,15 @@
+﻿生成启动时间为 16-4-7-星期四 PM 11:18:39。
+     1>项目“F:\opengl-redbook\triangle\triangle\triangle.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt triangles.cpp
+         triangles.cpp
+     1>f:\opengl-redbook\triangle\triangle\triangles.cpp(53): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\opengl-redbook\triangle\Debug\triangle.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libcmtd.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\opengl-redbook\triangle\Debug\triangle.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\opengl-redbook\triangle\Debug\triangle.lib" /MACHINE:X86 Debug\LoadShaders.obj
+         Debug\triangles.obj
+         triangle.vcxproj -> F:\opengl-redbook\triangle\Debug\triangle.exe
+     1>已完成生成项目“F:\opengl-redbook\triangle\triangle\triangle.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.28
